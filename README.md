@@ -28,7 +28,7 @@
 
 ---
 
-## 🌊 À propos de moi
+## 👤 À propos de moi
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/2514124/screenshots/15411521/media/9c8bf74bb60b8df1d9a68e8b4c2cbdb4.gif">
 
@@ -38,7 +38,7 @@
 
 💡 Je transforme des données brutes en **décisions concrètes** : pipelines ETL, Machine Learning, visualisation et applications intelligentes
 
-🌊 **Curieuse, rigoureuse et orientée solution** — je souhaite mettre mes compétences au service de projets à fort impact
+🔍 **Curieuse, rigoureuse et orientée solution** — je souhaite mettre mes compétences au service de projets à fort impact
 
 <br clear="both">
 

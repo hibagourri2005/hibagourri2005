@@ -252,19 +252,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hibagourri2005&theme=blue-green&background=03045e&border=0077b6&stroke=00b4d8&ring=90e0ef&fire=00b4d8&currStreakLabel=90e0ef" />
 </p>
-
-## 🏆 Trophées GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hibagourri2005&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" />
-</p>
-
-## 📈 Graphique d'activité
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hibagourri2005&theme=react-dark&bg_color=03045e&color=00b4d8&line=90e0ef&point=ffffff&area=true&hide_border=true" />
-</p>
-
 ## 🐍 Animation Snake
 
 <p align="center">

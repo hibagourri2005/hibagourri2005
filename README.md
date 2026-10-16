@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=220&section=header&text=Hiba%20Gourri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20IA%20%7C%20Business%20Intelligence&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,50:001d3d,100:003566&height=220&section=header&text=Hiba%20Gourri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20IA%20%7C%20Business%20Intelligence&descAlignY=55&descSize=20" />
 </p>
 
 <p align="center">
@@ -323,5 +323,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=120&section=footer&text=Merci%20de%20ta%20visite%20!%20💙&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003566,50:001d3d,100:000814&height=120&section=footer&text=Merci%20de%20ta%20visite%20!%20💙&fontSize=24&fontColor=ffffff" />
 </p>

@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=A8E063&center=true&vCenter=true&width=750&lines=Salut+👋+je+suis+Hiba+Gourri;Data+Science+%26+IA+💚;Élève+Ingénieure+ENSA+Khouribga;Disponible+pour+un+PFE+Data+%26+IA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=Salut+👋+je+suis+Hiba+Gourri;Data+Science+%26+IA+💙;Élève+Ingénieure+ENSA+Khouribga;Disponible+pour+un+PFE+Data+%26+IA" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Hiba%20Gourri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20IA%20%7C%20Business%20Intelligence&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6&height=220&section=header&text=Hiba%20Gourri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20IA%20%7C%20Business%20Intelligence&descAlignY=55&descSize=20" />
 </p>
 
 <p align="center">
@@ -14,12 +14,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-Hiba%20Gourri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hibagourri2005.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visiter-a8e063?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visiter-00B4D8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="tel:+212681359025">
     <img src="https://img.shields.io/badge/Téléphone-+212%20681--359025-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hibagourri2005&label=Visiteurs&color=a8e063&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=hibagourri2005&label=Visiteurs&color=00b4d8&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-## 🌿 À propos de moi
+## 🌊 À propos de moi
 
 <img align="right" alt="Data Science" width="380" src="https://cdn.dribbble.com/users/2514124/screenshots/15411521/media/9c8bf74bb60b8df1d9a68e8b4c2cbdb4.gif">
 
@@ -38,17 +38,17 @@
 
 💡 Je transforme des données brutes en **décisions concrètes** : pipelines ETL, Machine Learning, visualisation et applications intelligentes
 
-🌱 **Curieuse, rigoureuse et orientée solution** — je souhaite mettre mes compétences au service de projets à fort impact
+🌊 **Curieuse, rigoureuse et orientée solution** — je souhaite mettre mes compétences au service de projets à fort impact
 
 <br clear="both">
 
 ### 🎯 En chiffres
 
 <p align="center">
-  <img src="https://img.shields.io/badge/R²%20%3D%200.84-Modèle%20CHU-a8e063?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/8%20modèles%20ML-comparés-d4fc79?style=for-the-badge&labelColor=2d5a1e" />
-  <img src="https://img.shields.io/badge/14%20projets-GitHub-96e6a1?style=for-the-badge&labelColor=2d5a1e" />
-  <img src="https://img.shields.io/badge/3%20langues-arabe%20·%20français%20·%20anglais-56ab2f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R²%20%3D%200.84-Modèle%20CHU-00b4d8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/8%20modèles%20ML-comparés-48cae4?style=for-the-badge&labelColor=03045e" />
+  <img src="https://img.shields.io/badge/14%20projets-GitHub-90e0ef?style=for-the-badge&labelColor=03045e" />
+  <img src="https://img.shields.io/badge/3%20langues-arabe%20·%20français%20·%20anglais-0077b6?style=for-the-badge" />
 </p>
 
 ---
@@ -153,7 +153,7 @@
       <h3>📱 Classification de SMS spam (NLP)</h3>
       <p>Conception et comparaison de pipelines NLP et ML pour la détection automatique des SMS indésirables : prétraitement, vectorisation (<b>BoW, TF-IDF, Word Embeddings</b>) et classification.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/NLP-green?style=flat" />
+      <img src="https://img.shields.io/badge/NLP-blue?style=flat" />
       <br><br>
       <a href="https://github.com/hibagourri2005/Classification-SMS-SPAM-NLP"><img src="https://img.shields.io/badge/Voir%20le%20code-181717?style=for-the-badge&logo=github" /></a>
     </td>
@@ -161,7 +161,7 @@
       <h3>📝 Analyse textuelle multi-tâches (NLP)</h3>
       <p>Système de <b>Text Mining multilingue</b> : analyse de sentiment, modélisation thématique et recommandation intelligente, avec comparaison des méthodes classiques et des embeddings.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/NLP-green?style=flat" />
+      <img src="https://img.shields.io/badge/NLP-blue?style=flat" />
       <br><br>
       <a href="https://github.com/hibagourri2005/Analyse-Textuelle-Multi-Taches"><img src="https://img.shields.io/badge/Voir%20le%20code-181717?style=for-the-badge&logo=github" /></a>
     </td>
@@ -178,7 +178,7 @@
     <td width="50%">
       <h3>👥 Segmentation de clientèle (ML)</h3>
       <p>Clustering <b>K-Means</b>, analyse exploratoire, construction de profils clients et prédiction du segment pour de nouveaux clients, avec visualisations interactives.</p>
-      <img src="https://img.shields.io/badge/K--Means-green?style=flat" />
+      <img src="https://img.shields.io/badge/K--Means-blue?style=flat" />
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
       <br><br>
       <a href="https://github.com/hibagourri2005/Segmentation-Client-Par-Clustering"><img src="https://img.shields.io/badge/Voir%20le%20code-181717?style=for-the-badge&logo=github" /></a>
@@ -197,7 +197,7 @@
       <h3>📦 Flux de commandes multi-canaux (Big Data)</h3>
       <p>Simulation de flux de commandes multi-canaux centralisés dans <b>MongoDB</b> : collecte, stockage, analyse et tableau de bord des volumes traités.</p>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/NoSQL-green?style=flat" />
+      <img src="https://img.shields.io/badge/NoSQL-blue?style=flat" />
       <br><br>
       <a href="https://github.com/hibagourri2005/Analyse_Flux_Commandes_MongoDB"><img src="https://img.shields.io/badge/Voir%20le%20code-181717?style=for-the-badge&logo=github" /></a>
     </td>
@@ -245,14 +245,25 @@
 ## 📊 Mes statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hibagourri2005&show_icons=true&theme=chartreuse-dark&bg_color=0a2f1f&title_color=a8e063&icon_color=d4fc79&text_color=ffffff&border_color=56ab2f&include_all_commits=true&count_private=true" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibagourri2005&layout=compact&theme=chartreuse-dark&bg_color=0a2f1f&title_color=a8e063&text_color=ffffff&border_color=56ab2f&langs_count=8" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hibagourri2005&show_icons=true&theme=blue-green&bg_color=03045e&title_color=00b4d8&icon_color=90e0ef&text_color=ffffff&border_color=0077b6&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hibagourri2005&layout=compact&theme=blue-green&bg_color=03045e&title_color=00b4d8&text_color=ffffff&border_color=0077b6&langs_count=8" height="180em"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hibagourri2005&theme=chartreuse-dark&background=0a2f1f&border=56ab2f&stroke=a8e063&ring=d4fc79&fire=a8e063&currStreakLabel=d4fc79" />
+  <img src="https://streak-stats.demolab.com?user=hibagourri2005&theme=blue-green&background=03045e&border=0077b6&stroke=00b4d8&ring=90e0ef&fire=00b4d8&currStreakLabel=90e0ef" />
 </p>
 
+## 🏆 Trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hibagourri2005&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" />
+</p>
+
+## 📈 Graphique d'activité
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hibagourri2005&theme=react-dark&bg_color=03045e&color=00b4d8&line=90e0ef&point=ffffff&area=true&hide_border=true" />
+</p>
 
 ## 🐍 Animation Snake
 
@@ -271,9 +282,9 @@
 ## 🌍 Langues & Vie associative
 
 <p>
-  <img src="https://img.shields.io/badge/Arabe-Natif-a8e063?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Français-Courant-d4fc79?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Anglais-Courant-96e6a1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Arabe-Natif-00b4d8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Français-Courant-90e0ef?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Anglais-Courant-48cae4?style=for-the-badge" />
 </p>
 
 - 🌟 Membre actif des clubs **Codex** et **Lajnat Al Masjid** (ENSA)
@@ -301,7 +312,7 @@
     <img src="https://img.shields.io/badge/GitHub-hibagourri2005-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://hibagourri2005.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-hibagourri2005.github.io-a8e063?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-hibagourri2005.github.io-00b4d8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -312,5 +323,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Merci%20de%20ta%20visite%20!%20🌿&fontSize=24&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,4,6&height=120&section=footer&text=Merci%20de%20ta%20visite%20!%20💙&fontSize=24&fontColor=ffffff" />
 </p>
